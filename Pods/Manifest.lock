@@ -1,0 +1,39 @@
+PODS:
+  - AppLovinSDK (12.1.0)
+  - FBAudienceNetwork (6.14.0)
+  - IronSourceAdQualitySDK (7.15.0)
+  - IronSourceAppLovinAdapter (4.3.42.1):
+    - AppLovinSDK (= 12.1.0)
+    - IronSourceSDK (= 7.7.0.0)
+  - IronSourceFacebookAdapter (4.3.43.3):
+    - FBAudienceNetwork (= 6.14.0)
+    - IronSourceSDK (= 7.7.0.0)
+  - IronSourceSDK (7.7.0.0)
+
+DEPENDENCIES:
+  - FBAudienceNetwork
+  - IronSourceAdQualitySDK (= 7.15.0)
+  - IronSourceAppLovinAdapter (= 4.3.42.1)
+  - IronSourceFacebookAdapter (= 4.3.43.3)
+  - IronSourceSDK (= 7.7.0.0)
+
+SPEC REPOS:
+  trunk:
+    - AppLovinSDK
+    - FBAudienceNetwork
+    - IronSourceAdQualitySDK
+    - IronSourceAppLovinAdapter
+    - IronSourceFacebookAdapter
+    - IronSourceSDK
+
+SPEC CHECKSUMS:
+  AppLovinSDK: 179d509c258e01a3a77eb8416f0ba843a12ed322
+  FBAudienceNetwork: 4d6223a9a88a22e9dca8c9e6c1829a8745b86228
+  IronSourceAdQualitySDK: 0b72cbe5e8405bd1aca633c2f17149639450a88b
+  IronSourceAppLovinAdapter: 19dec07b91d30adb23b70bf710121d0161ad107a
+  IronSourceFacebookAdapter: db6b318160313bba93430a27ab3f03b3f51ed7c5
+  IronSourceSDK: c57bc2f8255222dd254887eb593382c51811e13d
+
+PODFILE CHECKSUM: 5cf805add1adbb1ccab692f350ebb3a71411d45a
+
+COCOAPODS: 1.14.3
